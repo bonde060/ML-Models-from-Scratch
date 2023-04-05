@@ -1,7 +1,5 @@
 ##
 ## Ann Bonde
-## ID: 5423260
-## CSCI 5521 Homework 2, Question 1
 ## To run, call MultiGaussian(training file name, testing file name, model #)
 ## prints found parameters and error rates
 ## returns parameters
